@@ -5,11 +5,11 @@
   
   <p>The developers of the project:</p>
 
-  <a src="https://github.com/AntonioFuziy">Antonio Fuziy</a>
-  
-  <a src="https://github.com/Edortizneto">Edgard Ortiz Neto</a>
+  <a href="https://github.com/AntonioFuziy">Antonio Fuziy</a>
 
-  <a src="https://github.com/roguetaver">André Tavernaro</a>
+  <a href="https://github.com/Edortizneto">Edgard Ortiz Neto</a>
+
+  <a href="https://github.com/roguetaver">André Tavernaro</a>
 </div>
 
 **The main documentation for this project is located on the link below:**
