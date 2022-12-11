@@ -3,7 +3,7 @@
   
   <p>A machine learning project to detect traffic signs using tensorflow, Nvidia TAO Toolkit and DeepStream.</p>
 
-  <img src="Videos/traffic-signs.png" width="300px"/>
+  <img src="Videos/traffic-signs.png" width="250px"/>
 </div>
 
 <p>The developers of the project:</p>
@@ -21,7 +21,7 @@
 The result of the project is a traffic sign detector that runs in real-time on the webcam as it is shown os the GIFs below.
 
 <div align="center">
-    <img src="Videos/placaPARE.gif" width="700px"/>
-    <img src="Videos/placa40.gif" width="700px"/>
-    <img src="Videos/placa60.gif" width="700px"/>
+    <img src="Videos/placaPARE.gif" width="600px"/>
+    <img src="Videos/placa40.gif" width="600px"/>
+    <img src="Videos/placa60.gif" width="600px"/>
 </div>
