@@ -2,15 +2,17 @@
   <h1>traffic-sign-detector</h1>
   
   <p>A machine learning project to detect traffic signs using tensorflow, Nvidia TAO Toolkit and DeepStream.</p>
-  
-  <p>The developers of the project:</p>
 
-  <a href="https://github.com/AntonioFuziy">Antonio Fuziy</a>
-
-  <a href="https://github.com/Edortizneto">Edgard Ortiz Neto</a>
-
-  <a href="https://github.com/roguetaver">André Tavernaro</a>
+  <img src="Videos/traffic-signs.png" width="700px"/>
 </div>
+
+<p>The developers of the project:</p>
+
+<a href="https://github.com/AntonioFuziy">Antonio Fuziy</a>
+
+<a href="https://github.com/Edortizneto">Edgard Ortiz Neto</a>
+
+<a href="https://github.com/roguetaver">André Tavernaro</a>
 
 **The main documentation for this project is located on the link below:**
 
